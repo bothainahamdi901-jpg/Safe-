@@ -1,0 +1,7 @@
+{
+  "name": "Sfair",
+  "description": "منصة ذكية لتجارة المخلفات الزراعية وسفير القصب للمزارعين والمصانع بالتسجيل الصوتي",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
